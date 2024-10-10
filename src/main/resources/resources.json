@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Las Vegas",
+    "password": "Casino",
+    "gastgeberheft": "/downloads/las-vegas/material/Gastgeberheft_Krimidinner_LasVegas-oglx.pdf",
+    "rollenhefte": [
+      { "name": "Rollenheft Elvis",           "src": "/downloads/las-vegas/material/Rollenheft_Elvis-ibfs.pdf" },
+      { "name": "Rollenheft Gregory",         "src": "/downloads/las-vegas/material/Rollenheft_Gregory-nbgs.pdf" },
+      { "name": "Rollenheft Magic Romeo",     "src": "/downloads/las-vegas/material/Rollenheft_MagicRomeo-besg.pdf" },
+      { "name": "Rollenheft Monica Green",    "src": "/downloads/las-vegas/material/Rollenheft_MonicaGreen-lbea.pdf" },
+      { "name": "Rollenheft Rachel Smith",    "src": "/downloads/las-vegas/material/Rollenheft_RachelSmith-gges.pdf" },
+      { "name": "Rollenheft Sam Bacon",       "src": "/downloads/las-vegas/material/Rollenheft_SamBacon-ggxl.pdf" },
+      { "name": "Rollenheft Tiffany Roberts", "src": "/downloads/las-vegas/material/Rollenheft_TiffanyRoberts-gkse.pdf" }
+    ],
+    "hinweise": [
+      { "name": "Hinweis A", "src": "/downloads/las-vegas/material/Hinweis-a-iges.pdf" },
+      { "name": "Hinweis B", "src": "/downloads/las-vegas/material/Hinweis-b-ibes.pdf" },
+      { "name": "Hinweis C", "src": "/downloads/las-vegas/material/Hinweis-c-ohrd.pdf" },
+      { "name": "Hinweis D", "src": "/downloads/las-vegas/material/Hinweis-d-bjfd.pdf" },
+      { "name": "Hinweis E", "src": "/downloads/las-vegas/material/Hinweis-e-sehd.pdf" },
+      { "name": "Hinweis F", "src": "/downloads/las-vegas/material/Hinweis-f-slee.pdf" }
+    ]
+  }, {
+    "name": "Berghotel",
+    "password": "Mortelle",
+    "gastgeberheft": "/downloads/berghotel/material/Gastgeberheft_Krimidinner_Berghotel-xiov.pdf",
+    "rollenhefte": [
+      { "name": "Rollenheft Bruno",               "src": "/downloads/berghotel/material/Rollenheft_Bruno-lxen.pdf" },
+      { "name": "Rollenheft Chloe Cruz",          "src": "/downloads/berghotel/material/Rollenheft_Chloe_Cruz-dleex.pdf" },
+      { "name": "Rollenheft Emma Rorschach",      "src": "/downloads/berghotel/material/Rollenheft_Emma_Rorschach-qxrs.pdf" },
+      { "name": "Rollenheft Gary Thomson",        "src": "/downloads/berghotel/material/Rollenheft_Gary_Thomson-lpsx.pdf" },
+      { "name": "Rollenheft Julianne Davis",      "src": "/downloads/berghotel/material/Rollenheft_Julianne_Davis-ysox.pdf" },
+      { "name": "Rollenheft Lady Anne Davenport", "src": "/downloads/berghotel/material/Rollenheft_Lady_Anne_Davenport-zxpl.pdf" },
+      { "name": "Rollenheft Lucas Bloom",         "src": "/downloads/berghotel/material/Rollenheft_Lucas_Bloom-bnxz.pdf" },
+      { "name": "Rollenheft Prinz Amir",          "src": "/downloads/berghotel/material/Rollenheft_Prinz_Amir-pxls.pdf" }
+    ],
+    "hinweise": [
+      { "name": "Hinweis A", "src": "/downloads/berghotel/material/Hinweis-a-xesy.pdf" },
+      { "name": "Hinweis B", "src": "/downloads/berghotel/material/Hinweis-b-pkgf.pdf" },
+      { "name": "Hinweis C", "src": "/downloads/berghotel/material/Hinweis-c-iuzr.pdf" },
+      { "name": "Hinweis D", "src": "/downloads/berghotel/material/Hinweis-d-ppex.pdf" },
+      { "name": "Hinweis E", "src": "/downloads/berghotel/material/Hinweis-e-pkxd.pdf" },
+      { "name": "Hinweis F", "src": "/downloads/berghotel/material/Hinweis-f-eswc.pdf" },
+      { "name": "Hinweis G", "src": "/downloads/berghotel/material/Hinweis-g-hfsd.pdf" },
+      { "name": "Hinweis H", "src": "/downloads/berghotel/material/Hinweis-h-mvbg.pdf" }
+    ]
+  }, {
+    "name": "Dorfdisco",
+    "password": "Hawaiitoast",
+    "gastgeberheft": "/downloads/dorfdisco/material/gastgeberheft-dorfdisco-plye.pdf",
+    "rollenhefte": [
+      { "name": "Rollenheft Malte",       "src": "/downloads/dorfdisco/material/rollenhefte-dorfdisco-malte-ouye.pdf" },
+      { "name": "Rollenheft Lisi",        "src": "/downloads/dorfdisco/material/rollenhefte-dorfdisco-lisi-owyp.pdf" },
+      { "name": "Rollenheft Frau Gruber", "src": "/downloads/dorfdisco/material/rollenhefte-dorfdisco-gruber-ieyp.pdf" },
+      { "name": "Rollenheft Jean-Pierre", "src": "/downloads/dorfdisco/material/rollenhefte-dorfdisco-jean-oywb.pdf" },
+      { "name": "Rollenheft Rosi",        "src": "/downloads/dorfdisco/material/rollenhefte-dorfdisco-rosi-spyw.pdf" },
+      { "name": "Rollenheft Wolfi",       "src": "/downloads/dorfdisco/material/rollenhefte-dorfdisco-wolfi-eoxw.pdf" }
+    ],
+    "hinweise": [
+      { "name": "Hinweis A", "src": "/downloads/dorfdisco/material/hinweis-a-jjva.pdf" },
+      { "name": "Hinweis B", "src": "/downloads/dorfdisco/material/hinweis-b-asjo.pdf" },
+      { "name": "Hinweis C", "src": "/downloads/dorfdisco/material/hinweis-c-nswb.pdf" },
+      { "name": "Hinweis D", "src": "/downloads/dorfdisco/material/hinweis-d-opsa.pdf" },
+      { "name": "Hinweis E", "src": "/downloads/dorfdisco/material/hinweis-e-bbdr.pdf" },
+      { "name": "Hinweis F", "src": "/downloads/dorfdisco/material/hinweis-f-oabs.pdf" },
+      { "name": "Hinweis G", "src": "/downloads/dorfdisco/material/hinweis-g-baes.pdf" },
+      { "name": "Hinweis H", "src": "/downloads/dorfdisco/material/hinweis-h-bywq.pdf" }
+    ]
+  }, {
+    "name": "Klassentreffen",
+    "password": "Schulhof",
+    "gastgeberheft": "/downloads/klassentreffen/material/Gastgeberheft_Krimidinner-skxf.pdf",
+    "rollenhefte": [
+      { "name": "Rollenheft Cornelia Sauer", "src": "/downloads/klassentreffen/material/Rollenheft_Cornelia_Sauer-esow.pdf" },
+      { "name": "Rollenheft Ingo Hofmann",   "src": "/downloads/klassentreffen/material/Rollenheft_Ingo_Hofmann-iqsy.pdf" },
+      { "name": "Rollenheft Justus Mayring", "src": "/downloads/klassentreffen/material/Rollenheft_Justus_Mayring-wsyk.pdf" },
+      { "name": "Rollenheft Lena Hofmann",   "src": "/downloads/klassentreffen/material/Rollenheft_Lena_Hofmann-isav.pdf" },
+      { "name": "Rollenheft Nicole Mayring", "src": "/downloads/klassentreffen/material/Rollenheft_Nicole_Mayring-xvgs.pdf" },
+      { "name": "Rollenheft Rüdiger Kranz",  "src": "/downloads/klassentreffen/material/Rollenheft_Ruediger_Kranz-xkeg.pdf" },
+      { "name": "Rollenheft Yvonne Pfeffer", "src": "/downloads/klassentreffen/material/Rollenheft_Yvonne_Pfeffer-oves.pdf" }
+    ],
+    "hinweise": [
+      { "name": "Hinweis A", "src": "/downloads/klassentreffen/material/Hinweis-a-bddr.pdf" },
+      { "name": "Hinweis B", "src": "/downloads/klassentreffen/material/Hinweis-b-basb.pdf" },
+      { "name": "Hinweis C", "src": "/downloads/klassentreffen/material/Hinweis-c-nswg.pdf" },
+      { "name": "Hinweis D", "src": "/downloads/klassentreffen/material/Hinweis-d-opse.pdf" },
+      { "name": "Hinweis E", "src": "/downloads/klassentreffen/material/Hinweis-e-badr.pdf" },
+      { "name": "Hinweis F", "src": "/downloads/klassentreffen/material/Hinweis-f-obes.pdf" },
+      { "name": "Hinweis G", "src": "/downloads/klassentreffen/material/Hinweis-g-bkls.pdf" }
+    ]
+  }, {
+    "name": "Backstage",
+    "password": "Gastgeber",
+    "gastgeberheft": "/downloads/backstage/material/Gastgeberheft_Krimidinner_Backstage-xiov.pdf",
+    "rollenhefte": [
+      {"name": "Rollenheft Dizzi D",          "src": "/downloads/backstage/material/Rollenheft_Dizzy_D-ixxd.pdf" },
+      {"name": "Rollenheft Jenny Jones",      "src": "/downloads/backstage/material/Rollenheft_Jenny_Jones-plxd.pdf" },
+      {"name": "Rollenheft Marco DiAngelo",   "src": "/downloads/backstage/material/Rollenheft_Marco_DiAngelo-xkfr.pdf" },
+      {"name": "Rollenheft Miss Loco",        "src": "/downloads/backstage/material/Rollenheft_Miss_Loco-phfz.pdf" },
+      {"name": "Rollenheft Paul",             "src": "/downloads/backstage/material/Rollenheft_Paul-rsse.pdf" },
+      {"name": "Rollenheft Shiva Lee",        "src": "/downloads/backstage/material/Rollenheft_Shiva-Lee-ouxv.pdf" },
+      {"name": "Rollenheft Sidney Sheraton",  "src": "/downloads/backstage/material/Rollenheft_Sidney_Sheraton-fjss.pdf" },
+      {"name": "Rollenheft Tom Crush",        "src": "/downloads/backstage/material/Rollenheft_Tom_Crush-oeis.pdf" }
+    ],
+    "hinweise": [
+      {"name": "Hinweis A", "src": "/downloads/backstage/material/Hinweis-a-ouxd.pdf" },
+      {"name": "Hinweis B", "src": "/downloads/backstage/material/Hinweis-b-mxdr.pdf" },
+      {"name": "Hinweis C", "src": "/downloads/backstage/material/Hinweis-c-moyv.pdf" },
+      {"name": "Hinweis D", "src": "/downloads/backstage/material/Hinweis-d-mfin.pdf" },
+      {"name": "Hinweis E", "src": "/downloads/backstage/material/hinweis-e-plyd.pdf" },
+      {"name": "Hinweis F", "src": "/downloads/backstage/material/hinweis-f-sebs.pdf" },
+      {"name": "Hinweis G", "src": "/downloads/backstage/material/hinweis-g-sevn.pdf" },
+      {"name": "Hinweis H", "src": "/downloads/backstage/material/hinweis-h-leox.pdf" },
+      {"name": "Setliste",  "src": "/downloads/backstage/material/setlist-xiov.pdf" }
+    ]
+  }, {
+    "name": "Zirkus",
+    "password": "Gastgeber",
+    "gastgeberheft": "/downloads/zirkus/material/Gastgeberheft_Krimidinner_Zirkus-oeas.pdf",
+    "rollenhefte": [
+      { "name": "Rollenheft David Black",     "src": "/downloads/zirkus/material/Rollenheft_DavidBlack-orib.pdf" },
+      { "name": "Rollenheft Harry Martini",   "src": "/downloads/zirkus/material/Rollenheft_HarryMartini-besg.pdf" },
+      { "name": "Rollenheft Helga Maier",     "src": "/downloads/zirkus/material/Rollenheft_HelgaMaier-kbeb.pdf" },
+      { "name": "Rollenheft Klaus",           "src": "/downloads/zirkus/material/Rollenheft_Klaus-kbes.pdf" },
+      { "name": "Rollenheft Lilly Martini",   "src": "/downloads/zirkus/material/Rollenheft_LillyMartini-obbr.pdf" },
+      { "name": "Rollenheft Madame Elastika", "src": "/downloads/zirkus/material/Rollenheft_MadameElastika-kebs.pdf" },
+      { "name": "Rollenheft Oscar Martini",   "src": "/downloads/zirkus/material/Rollenheft_OscarMartini-bebe.pdf" },
+      { "name": "Rollenheft Tatiana",         "src": "/downloads/zirkus/material/Rollenheft_Tatiana-besa.pdf" }
+    ],
+    "hinweise": [
+      { "name": "Radiohinweis 1", "src": "/downloads/zirkus/material/Radiohinweise_1-kses.pdf" },
+      { "name": "Radiohinweis 2", "src": "/downloads/zirkus/material/Radiohinweise_2-besb.pdf" },
+      { "name": "Radiohinweis 3", "src": "/downloads/zirkus/material/Radiohinweise_3-pbes.pdf" },
+      { "name": "Radiohinweis 4", "src": "/downloads/zirkus/material/Radiohinweise_4-boes.pdf" },
+      { "name": "Radiohinweis 5", "src": "/downloads/zirkus/material/Radiohinweise_5-besx.pdf" },
+      { "name": "Radiohinweis 6", "src": "/downloads/zirkus/material/Radiohinweise_6-besd.pdf" },
+      { "name": "Zeitungsartikel","src": "/downloads/zirkus/material/Zeitungsartikel_bles.pdf" }
+    ]
+  }
+]
