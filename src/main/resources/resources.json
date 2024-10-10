@@ -136,5 +136,28 @@
       { "name": "Radiohinweis 6", "src": "/downloads/zirkus/material/Radiohinweise_6-besd.pdf" },
       { "name": "Zeitungsartikel","src": "/downloads/zirkus/material/Zeitungsartikel_bles.pdf" }
     ]
+  },
+  {
+    "name": "All Inclusive",
+    "password": "Sangria",
+    "gastgeberheft": "/downloads/all-inclusive/material/gastgeberheft_all_inclusive-iwos.pdf",
+    "rollenhefte": [
+      { "name": "Rollenheft Vera Vogt",          "src": "/downloads/all-inclusive/material/rollenheft_vera_vogt-pwxe.pdf" },
+      { "name": "Rollenheft Scarlett Blackwood", "src": "/downloads/all-inclusive/material/rollenheft_scarlett_blackwood-lhze.pdf" },
+      { "name": "Rollenheft Heinz Krause",       "src": "/downloads/all-inclusive/material/rollenheft_heinz_krause-eraw.pdf" },
+      { "name": "Rollenheft Nick Becker",        "src": "/downloads/all-inclusive/material/rollenheft_nick_becker-poie.pdf" },
+      { "name": "Rollenheft Zoe Lenz",           "src": "/downloads/all-inclusive/material/rollenheft_zoe_lenz-peos.pdf" },
+      { "name": "Rollenheft Diego Santos",       "src": "/downloads/all-inclusive/material/rollenheft_diego_santos-ppoe.pdf" }
+    ],
+    "hinweise": [
+      { "name": "Hinweis A", "src": "/downloads/all-inclusive/material/hinweis_a-hvxs.pdf" },
+      { "name": "Hinweis B", "src": "/downloads/all-inclusive/material/hinweis_b-qwur.pdf" },
+      { "name": "Hinweis C", "src": "/downloads/all-inclusive/material/hinweis_c-fhvg.pdf" },
+      { "name": "Hinweis D", "src": "/downloads/all-inclusive/material/hinweis_d-tzux.pdf" },
+      { "name": "Hinweis E", "src": "/downloads/all-inclusive/material/hinweis_e-bhsw.pdf" },
+      { "name": "Hinweis F", "src": "/downloads/all-inclusive/material/hinweis_f-bdhw.pdf" },
+      { "name": "Hinweis G", "src": "/downloads/all-inclusive/material/hinweis_g-irus.pdf" },
+      { "name": "Hinweis H", "src": "/downloads/all-inclusive/material/hinweis_h-eirs.pdf" }
+    ]
   }
 ]
